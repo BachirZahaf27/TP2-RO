@@ -1,6 +1,6 @@
 /*********************************************
  * OPL 12.7.0.0 Model
- * Author: Hp
+ * Author: Zahaf Mohamed el-Bachir
  * Creation Date: 08 avril. 2022 at 11:17:51
  *********************************************/
 int n = ...;
