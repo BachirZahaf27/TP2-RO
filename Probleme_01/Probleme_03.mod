@@ -1,7 +1,7 @@
 /*********************************************
  * OPL 12.7.0.0 Model
- * Author: Hp
- * Creation Date: 08 avril. 2022 at 11:17:51
+ * Author: MOSTAPC
+ * Creation Date: 11 avril. 2022 at 11:17:51
  *********************************************/
 int n = ...;
 range I = 1..n;
